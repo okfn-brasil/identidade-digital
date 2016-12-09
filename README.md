@@ -3,7 +3,7 @@ O Manifesto para identificação digital no Brasil é uma carta de princípios q
 
 ## Como assinar? 
 Para assinar o Manifesto basta:
-* Enviar um e-mail para algum e-mail da @ok.org.br com o manifesto e assinatura em formato pdf
+* Entrar no canal do Telegram, e pedir informações sobre: https://telegram.me/IdentidadeDigital
 
 ## Como sugerir modificações?
 Para sugerir novo texto ou fazer sugestões e críticas, basta utilizar a interface do github para submeter um pull request. Seu comentário ou sugestão será adicionado publicamente com sua assinatura e perfil público do Github. 
