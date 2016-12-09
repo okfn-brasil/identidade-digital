@@ -1,52 +1,48 @@
 # Manifesto para Identificação Digital no Brasil
 
-O Governo vem discutindo uma forma de implementar a identificação digital no Brasil e também como vai integrar, ou se deve integrar, o uso de tecnologias como a biometria, praticada pelo TSE, na identificação do cidadão no meio digital.
-
-Entendemos que a sociedade é parte fundamental na discussão e portanto lançamos o “Manifesto para a proteção da identificação digital no Brasil”. Este manifesto é um convite para que cidadãos, organizações da sociedade civil e empresas subscrevam estes princípios, orientando o uso de tecnologias para identificação digital na sociedade brasileira.
+A identificação civil no Brasil está sendo debatida e redesenhada com o debate em torno do ICN - a Identidade Civil Nacional. Paralelamente, surgem iniciativas para organizar e sistematizar modelos para a identificação digital do cidadão brasileiro - e o perfil que ela assumirá será fator determinante para a isonomia, garantia de direitos e inclusão digital no país. Entendemos que a sociedade é parte fundamental nesta discussão e, portanto, lançamos o “Manifesto para a proteção da identificação digital no Brasil”. Este manifesto é um convite para que cidadãos, organizações da sociedade civil e empresas subscrevam estes princípios, orientando o uso de tecnologias para identificação digital na sociedade brasileira.
 
 
-Tratar de identificação digital também é falar de segurança dos dados e privacidade do cidadão. Sistemas de identificação digital devem garantir que  os cidadãos tenham confiança em como as suas informações serão armazenadas e utilizadas no seu interesse, de modo a eliminar a possibilidade de utilização abusiva ou vazamento indevido de qualquer tipo de dado. 
+Tratar de identificação digital também é falar de cidadania, segurança e privacidade do cidadão. Sistemas de identificação digital devem garantir que os cidadãos tenham controle e confiança sobre como as suas informações serão utilizadas em um sistema de identificação, que deve ser construído privilegiando a transparência e controle do cidadão sobre seus dados e reprimindo qualquer utilização abusiva ou vazamento indevido destes.
 
-São eles:
+Os princípios que devem ser considerados na implementação da identificação digital no Brasil são:
 
   * ### TRANSPARÊNCIA 
-  O cidadão deve saber quem teve acesso a quais dos seus dados e para qual finalidade, de maneira simples, clara e sem custos.
+O cidadão deve ter acesso a todos os seus dados pessoais constantes no sistema de identificação, assim como saber quem teve acesso a estes e para qual finalidade, de maneira facilitada, clara e sem custos.
 
   * ### LEGITIMIDADE
-  Os dados que identificam só podem ser utilizados com o consentimento do cidadão.
+Os dados pessoais só podem ser utilizados com o consentimento do cidadão ou quando for autorizado por dispositivo legal ou regulamentar.
 
   * ### CONTROLE
-  O cidadão detém o poder sobre os seus dados e deve poder gerenciá-los e fornecer as permissões para que seus dados sejam ou não compartilhados de acordo com sua livre vontade.
+O cidadão detém o poder sobre os seus dados e deve poder gerenciar seus dados pessoais, incluíndo atualizá-los, removê-los ou compartilhar, de acordo com sua livre vontade, bem como obter, a qualquer momento, cópia de seus dados e da utilização que deles foi feita.
 
   * ### MINIMIZAÇÃO 
-  Dados relativos ao cidadão só devem ser coletados na medida necessária para a realização de um determinado fim.
-  
+Os dados pessoais só devem ser coletados na medida necessária para a realização de uma determinada finalidade, não podendo ser excessivos.
+
   * ### PADRÕES ABERTOS 
-  Devem ser mantidos e utilizados padrões para dados abertos documentados publicamente.
+Os padrões utilizados para a infraestrutura de dados devem ser documentados e divulgados publicamente, afim de garantir a confiabilidade da arquitetura utilizada.
 
   * ### INTEROPERABILIDADE 
-  Deve ser garantida a fluidez dos dados do sistema para que sejam indistintamente utilizados pelos setores privado e o público, com vistas a que o uso responsável dos dados pessoais do cidadão seja incorporado como nas respectivas culturas organizacionais e fomentando a utilização do sistema de forma mais ampla possível.
+Os dados em um sistema de identificação devem ser padronizados de modo a poderem ser indistintamente utilizados pelos setores privado e o público, incorporando a portabilidade destas informações nas respectivas culturas organizacionais.
 
-  * ### UNICIDADE 
-  Deve-se evitar duplicidade no armazenamento de dados de cidadãos pelo setor público, através de medidas como a utilizacão de padrões e a definição de responsabilidades sobre categorias de dados, evitando desperdício, redundâncias e principalmente permitindo o controle efetivo pelo cidadão sobre seus dados.
-
-  * ### COBERTURA 
-  Deve estar presente em uma política de expansão dos serviços de identificação para o atendimento integral de toda a população brasileira.
+  * ### SEGURANÇA
+Os dados pessoais devem ser mantidos em ambiente seguro e todos aqueles que dispuserem de acesso ao sistema de identificação deverão observar estes princípios e ter suas políticas e práticas de segurança e proteção de dados divulgadas publicamente certificadas por autoridade competente.
 
   * ### FATOR MÚLTIPLO 
-  O governo deve fornecer estrutura para oferecer acesso de forma simples e facilitado para diferentes fatores de autenticação, que possam ser realizados por provedores de identidade distintos.
-  
+deve ser oferecidor acesso de forma simples e facilitado para diferentes fatores de autenticação, que possam ser realizados por provedores de identidade distintos.
+
   * ### OPCIONAL 
-  A identificação digital deve ser opcional, desde que o cidadão tenha a identificação provida por outro meio.
+A identificação digital deve ser opcional.
 
   * ### INTEGRAÇÃO 
-  A identidade digital pode ser integrada aos demais registros
+A identidade digital pode ser integrada aos demais registros
 
+  * ### PORTABILIDADE
+As aplicações e os serviços devem possibilitar que o cidadão carregue consigo os seus próprios dados pessoais, em dispositivo ou meio de armazenamento pessoal, podendo os mesmos serem verificados e assinados digitalmente por uma autoridade competente e essa certificação ser utilizada quando do uso da aplicação ou da prestação de serviço, quando for necessário, com a permissão de seu titular. Os bancos de dados pessoais podem existir apenas nas situações onde a natureza da aplicação ou da prestação do serviço for tal que seja tecnicamente impossível de operar sem o acesso em lote a múltiplos registros de dados pessoais, desde que a sua coleta e o seu uso sejam consentidos pelo cidadão.
 
-Os princípios descritos neste Manifesto são fundamentais para uma identificação digital universal, transparente, segura e que garanta a privacidade, combata fraudes, seja de fácil compreensão, promova a inclusão de serviços públicos e que privilegie a autonomia do cidadão quanto às decisões sobre o uso dos seus próprios dados.
+Os princípios descritos neste Manifesto são fundamentais para uma identificação digital universal, transparente, segura e que promova a cidadania, garanta a privacidade, combata fraudes, seja facilmente compreensível, promova a inclusão em serviços públicos e privilegie a autonomia do cidadão quanto às decisões sobre o uso dos seus próprios dados. 
 
 Esperamos que o governo federal se comprometa e garanta os princípios aqui descritos, para garantir à sociedade brasileira o direito à privacidade e liberdade com o objetivo da consolidação de uma sociedade com inclusão digital transparente e escalável.
-
 
 ##### 6 de dezembro de 2016.
 
