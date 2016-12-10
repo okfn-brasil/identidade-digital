@@ -4,8 +4,9 @@ O [**Manifesto para identificação digital no Brasil**](https://mutirao.github.
 ## Como assinar?
 Para assinar o Manifesto, existem duas formas:
 
-* A primeira é mais fácil, porém pode ser mais demorada: 
- * Entrar no canal do Telegram e pedir informações: https://telegram.me/IdentidadeDigital
+* A primeira pode ser mais demorada, mas é mais fácil:
+ * Basta entrar no canal do Telegram e pedir informações: https://telegram.me/IdentidadeDigital
+
 
 * A segunda pode ser mais rápida, mas é mais complexa:
  1. Fazer um fork do [repositório da @okfn-brasil](https://github.com/okfn-brasil/identidade-digital);
