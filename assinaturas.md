@@ -10,3 +10,4 @@ Para assinar o manifesto, adicione na lista abaixo o seu nome e/ou o nome da org
 
 ## Pessoas
 
+* @uira
