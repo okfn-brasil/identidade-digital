@@ -46,4 +46,4 @@ Esperamos que o governo federal se comprometa e garanta os princípios aqui desc
 
 ##### 6 de dezembro de 2016.
 
-* Open Knowledge Brasil
+Quer assinar ou saber quem já assinou o manifesto? [Clique aqui](assinaturas.md)
