@@ -44,7 +44,7 @@ Os princípios descritos neste Manifesto são fundamentais para uma identificaç
 
 Esperamos que o governo federal se comprometa e garanta os princípios aqui descritos, para garantir à sociedade brasileira o direito à privacidade e liberdade com o objetivo da consolidação de uma sociedade com inclusão digital transparente e escalável.
 
-> 6 de dezembro de 2016.
+##### 6 de dezembro de 2016.
 ---
 
 
