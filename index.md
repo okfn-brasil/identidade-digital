@@ -49,4 +49,4 @@ Esperamos que o governo federal se comprometa e garanta os princípios aqui desc
 
 
 ## Assinaturas
-[Clique aqui](assinaturas.md) para [assinar](assinaturas.md) ou saber quem [já assinou](assinaturas.md) o manifesto.
+[Clique aqui](assinaturas.md) para [assinar](assinaturas.md) ou saber quem [já assinou](assinaturas.md).
