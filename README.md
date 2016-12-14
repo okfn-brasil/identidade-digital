@@ -1,6 +1,6 @@
 # O que é?
 
-O [**Manifesto para identificação digital no Brasil**](https://okfn-brasil.github.io/identidade-digital/) é uma carta de princípios que visa assegurar que as iniciativas de implementar tecnologias digitais na identificação do cidadão no Brasil possam assegurar os direitos básicos à privacidade e liberdade de expressão, além de ter como norte a segurança e direito à propriedade dos próprios dados, ainda que estes estejam armazenados em servidores de terceiros.
+O [**Manifesto para identificação digital no Brasil**](https://mutirao.github.io/identidade-digital/) é uma carta de princípios que visa assegurar que as iniciativas de implementar tecnologias digitais na identificação do cidadão no Brasil possam assegurar os direitos básicos à privacidade e liberdade de expressão, além de ter como norte a segurança e direito à propriedade dos próprios dados, ainda que estes estejam armazenados em servidores de terceiros.
 
 
 ## Como assinar?
