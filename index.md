@@ -45,8 +45,7 @@ Os princípios descritos neste Manifesto são fundamentais para uma identificaç
 Esperamos que o governo federal se comprometa e garanta os princípios aqui descritos, para garantir à sociedade brasileira o direito à privacidade e liberdade com o objetivo da consolidação de uma sociedade com inclusão digital transparente e escalável.
 
 ##### 6 de dezembro de 2016.
+
 ---
 
-
-## Assinaturas
-[Clique aqui](assinaturas.md) para [assinar](assinaturas.md) ou saber quem [já assinou](assinaturas.md).
+[Código-fonte](https://github.com/okfn-brasil/identidade-digital) &#160;&#160;  [![licença - atribuição](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/88px-CC-BY_icon.svg.png)](https://creativecommons.org/licenses/by/3.0/deed.pt_BR)
