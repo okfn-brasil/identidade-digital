@@ -8,7 +8,7 @@ Tratar de identificação digital também é falar de cidadania, segurança e pr
 Os princípios que devem ser considerados na implementação da identificação digital no Brasil são:
 
   * ### TRANSPARÊNCIA 
-O cidadão deve ter acesso a todos os seus dados pessoais constantes no sistema de identificação, assim como saber quem teve acesso a estes e para qual finalidade, de maneira facilitada, clara e sem custos.
+O cidadão deve ter acesso a todos os seus dados pessoais constantes em sistemas de identificação, assim como saber quem teve acesso a estes e para qual finalidade, de maneira facilitada, clara e sem custos.
 
   * ### LEGITIMIDADE
 Os dados pessoais só podem ser utilizados com o consentimento do cidadão ou quando for autorizado por dispositivo legal ou regulamentar.
@@ -17,19 +17,19 @@ Os dados pessoais só podem ser utilizados com o consentimento do cidadão ou qu
 O cidadão detém o poder sobre os seus dados e deve poder gerenciar seus dados pessoais, incluíndo atualizá-los, removê-los ou compartilhar, de acordo com sua livre vontade, bem como obter, a qualquer momento, cópia de seus dados e da utilização que deles foi feita.
 
   * ### MINIMIZAÇÃO 
-Os dados pessoais só devem ser coletados na medida necessária para a realização de uma determinada finalidade, não podendo ser excessivos.
+Os dados pessoais só devem ser coletados na medida necessária para a realização de uma determinada finalidade.
 
   * ### PADRÕES ABERTOS 
-Os padrões utilizados para a infraestrutura de dados devem ser documentados e divulgados publicamente, afim de garantir a confiabilidade da arquitetura utilizada.
+Os padrões utilizados para a infraestrutura de dados devem ser documentados e divulgados publicamente, além de globais, afim de garantir a confiabilidade da arquitetura utilizada.
 
   * ### INTEROPERABILIDADE 
-Os dados em um sistema de identificação devem ser padronizados de modo a poderem ser indistintamente utilizados pelos setores privado e o público, incorporando a portabilidade destas informações nas respectivas culturas organizacionais.
+Os dados em um sistema de identificação devem obedecer a padrões de segurança, armazenamento, representação e coleta, de modo a poderem ser utilizados quando necessário pelos setores privado e o público, incorporando a portabilidade destas informações nas respectivas culturas organizacionais.
 
   * ### SEGURANÇA
-Os dados pessoais devem ser mantidos em ambiente seguro e todos aqueles que dispuserem de acesso ao sistema de identificação deverão observar estes princípios e ter suas políticas e práticas de segurança e proteção de dados divulgadas publicamente certificadas por autoridade competente.
+Os dados pessoais devem ser mantidos em ambientes seguros e todos aqueles que dispuserem de acesso ao sistema de identificação deverão observar estes princípios e ter suas políticas e práticas de segurança e proteção de dados divulgadas publicamente certificadas por autoridade competente.
 
   * ### FATOR MÚLTIPLO 
-deve ser oferecidor acesso de forma simples e facilitado para diferentes fatores de autenticação, que possam ser realizados por provedores de identidade distintos.
+deve ser oferecido acesso aos dados de forma simples e sem custos para diferentes fatores de autenticação que possam ser realizados por provedores de identidade distintos.
 
   * ### OPCIONAL 
 A identificação digital deve ser opcional.
