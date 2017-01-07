@@ -1,9 +1,18 @@
 # Manifesto para Identificação Digital no Brasil
 
-A identificação civil no Brasil está sendo debatida e redesenhada com o debate em torno do ICN - a Identidade Civil Nacional. Paralelamente, surgem iniciativas para organizar e sistematizar modelos para a identificação digital do cidadão brasileiro - e o perfil que ela assumirá será fator determinante para a isonomia, garantia de direitos e inclusão digital no país. Entendemos que a sociedade é parte fundamental nesta discussão e, portanto, lançamos o “Manifesto para a proteção da identificação digital no Brasil”. Este manifesto é um convite para que cidadãos, organizações da sociedade civil e empresas subscrevam estes princípios, orientando o uso de tecnologias para identificação digital na sociedade brasileira.
+A idéia de criação de um “Cadastro Nacional de Acesso à Internet” prevendo a criação de um mecanismo de identificação dos usuários e a introdução de mecanismos de controle de acesso a serviços e conteúdos têm sido recorrente no Brasil.
 
+As discussões em torno deles vem mostrando a inviabilidade técnica da implementação de cadastros com essas finalidades, mas lamentavelmente não vem sendo discutidas alternativas adequadas para a devida identificação digital no Brasil.
 
-Tratar de identificação digital também é falar de cidadania, segurança e privacidade do cidadão. Sistemas de identificação digital devem garantir que os cidadãos tenham controle e confiança sobre como as suas informações serão utilizadas em um sistema de identificação, que deve ser construído privilegiando a transparência e controle do cidadão sobre seus dados e reprimindo qualquer utilização abusiva ou vazamento indevido destes.
+Este manifesto propõe um conjunto de princípios para a construção de serviços de identificação de pessoas na Internet. É um convite para que cidadãos, organizações da sociedade civil, empresas, além do poder público discutam o tema.
+
+Esperamos, com isso, contribuir com a construção de uma política de identificação digital no Brasil, que respeite o Marco Civil da Internet e as caractersticas técnicas do funcionamento da rede mundial de computadores.
+
+O Congresso Nacional vem realizando um debate relevante sobre a reformulação do modelo de organização da identificação civil no Brasil,  em torno da criação da base biométrica nacional pelo Tribunal Superior Eleitoral e a sua institucionalização com o Projeto de Lei 1.775/2015, cujo substitutivo em discussão institui a ICN – a Identidade Civil Nacional. 
+
+A implementação do projeto ICN, independentemente de eventuais questionamentos ao seu modelo tecnológico, permitirá um aprimoramento significativo na organização dos serviços de identificação civil mantidos pelos governos estaduais, com impacto positivo em diversos setores da sociedade brasileira.
+
+Entendemos que é fundamental aproveitar esse momento para ampliar esse debate com a inclusão de uma política de identificação digital para o Brasil aderente à arquitetura técnica que viabiliza o funcionamento da Internet. Uma política que impulsione o uso seguro de serviços eletrônicos, sejam eles públicos ou privados, assim como, também, trate adequadamente os desafios à proteção da privacidade e dos dados pessoais que são amplificados na Internet.
 
 Os princípios que devem ser considerados na implementação da identificação digital no Brasil são:
 
