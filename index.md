@@ -36,6 +36,7 @@ Os dados em um sistema de identificação devem obedecer a padrões de seguranç
 
   * ### SEGURANÇA
 Os dados pessoais devem ser mantidos em ambientes seguros e todos aqueles que dispuserem de acesso ao sistema de identificação deverão observar estes princípios e ter suas políticas e práticas de segurança e proteção de dados divulgadas publicamente certificadas por autoridade competente.
+O Estado brasileiro deve manter a soberania tecnológica da infraestrutura de dados de identificação digital a fim de assegurar os princípios aqui definidos.
 
   * ### FATOR MÚLTIPLO 
 deve ser oferecido acesso aos dados de forma simples e sem custos para diferentes fatores de autenticação que possam ser realizados por provedores de identidade distintos.
