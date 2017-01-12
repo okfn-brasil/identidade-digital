@@ -10,8 +10,6 @@ Esperamos, com isso, contribuir com a construção de uma política de identific
 
 O Congresso Nacional vem realizando um debate relevante sobre a reformulação do modelo de organização da identificação civil no Brasil,  em torno da criação da base biométrica nacional pelo Tribunal Superior Eleitoral e a sua institucionalização com o [Projeto de Lei 1.775/2015](http://www.lexml.gov.br/urn/urn:lex:br:camara.deputados:projeto.lei;pl:2015-06-01;1775), cujo substitutivo em discussão institui a ICN – a Identidade Civil Nacional. 
 
-A implementação do projeto ICN, independentemente de eventuais questionamentos ao seu modelo tecnológico, permitirá um aprimoramento significativo na organização dos serviços de identificação civil mantidos pelos governos estaduais, com impacto positivo em diversos setores da sociedade brasileira.
-
 Entendemos que é fundamental aproveitar esse momento para ampliar esse debate com a inclusão de uma política de identificação digital para o Brasil aderente à arquitetura técnica que viabiliza o funcionamento da Internet. Uma política que impulsione o uso seguro de serviços eletrônicos, sejam eles públicos ou privados, assim como, também, trate adequadamente os desafios à proteção da privacidade e dos dados pessoais que são amplificados na Internet.
 
 Os princípios que devem ser considerados na implementação da identificação digital no Brasil são:
