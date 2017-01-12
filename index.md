@@ -8,7 +8,7 @@ Este manifesto propõe um conjunto de princípios para a construção de serviç
 
 Esperamos, com isso, contribuir com a construção de uma política de identificação digital no Brasil, que respeite o Marco Civil da Internet e as caractersticas técnicas do funcionamento da rede mundial de computadores.
 
-O Congresso Nacional vem realizando um debate relevante sobre a reformulação do modelo de organização da identificação civil no Brasil,  em torno da criação da base biométrica nacional pelo Tribunal Superior Eleitoral e a sua institucionalização com o Projeto de Lei 1.775/2015, cujo substitutivo em discussão institui a ICN – a Identidade Civil Nacional. 
+O Congresso Nacional vem realizando um debate relevante sobre a reformulação do modelo de organização da identificação civil no Brasil,  em torno da criação da base biométrica nacional pelo Tribunal Superior Eleitoral e a sua institucionalização com o [Projeto de Lei 1.775/2015](http://www.lexml.gov.br/urn/urn:lex:br:camara.deputados:projeto.lei;pl:2015-06-01;1775), cujo substitutivo em discussão institui a ICN – a Identidade Civil Nacional. 
 
 A implementação do projeto ICN, independentemente de eventuais questionamentos ao seu modelo tecnológico, permitirá um aprimoramento significativo na organização dos serviços de identificação civil mantidos pelos governos estaduais, com impacto positivo em diversos setores da sociedade brasileira.
 
@@ -16,8 +16,13 @@ Entendemos que é fundamental aproveitar esse momento para ampliar esse debate c
 
 Os princípios que devem ser considerados na implementação da identificação digital no Brasil são:
 
-  * ### TRANSPARÊNCIA 
-O cidadão deve ter acesso a todos os seus dados pessoais constantes em sistemas de identificação, assim como saber quem teve acesso a estes e para qual finalidade, de maneira facilitada, clara e sem custos.
+  * ### TRANSPARÊNCIA
+
+Os atos, normas técnicas e demais decisões relativas ao sistema de identificação, ao seu custo de aquisição, e a sua operação devem ser publicados em Diário Oficial, e seus dados expressos em formatos abertos.
+
+  * ### ACESSO À INFORMAÇÃO
+
+O cidadão deve ter acesso a todos os seus dados pessoais constantes no sistema de identificação, assim como saber quem teve acesso a estes e para qual finalidade, de maneira facilitada, clara e sem custos.
 
   * ### LEGITIMIDADE
 Os dados pessoais só podem ser utilizados com o consentimento do cidadão ou quando for autorizado por dispositivo legal ou regulamentar.
