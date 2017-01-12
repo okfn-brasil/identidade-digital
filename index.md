@@ -17,11 +17,9 @@ Entendemos que é fundamental aproveitar esse momento para ampliar esse debate c
 Os princípios que devem ser considerados na implementação da identificação digital no Brasil são:
 
   * ### TRANSPARÊNCIA
-
 Os atos, normas técnicas e demais decisões relativas ao sistema de identificação, ao seu custo de aquisição, e a sua operação devem ser publicados em Diário Oficial, e seus dados expressos em formatos abertos.
 
   * ### ACESSO À INFORMAÇÃO
-
 O cidadão deve ter acesso a todos os seus dados pessoais constantes no sistema de identificação, assim como saber quem teve acesso a estes e para qual finalidade, de maneira facilitada, clara e sem custos.
 
   * ### LEGITIMIDADE
