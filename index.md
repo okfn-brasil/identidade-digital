@@ -1,4 +1,4 @@
-# Manifesto para Identificação Digital no Brasil
+# Manifesto para a proteção da identificação digital no Brasil
 
 A idéia de criação de um “Cadastro Nacional de Acesso à Internet” prevendo a criação de um mecanismo de identificação dos usuários e a introdução de mecanismos de controle de acesso a serviços e conteúdos têm sido recorrente no Brasil.
 
