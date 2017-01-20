@@ -10,4 +10,5 @@ Para assinar o [**Manifesto para identificação digital no Brasil**](https://ok
 
 ## Pessoas
 
+* @guilhermednt
 * @uira
