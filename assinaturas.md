@@ -5,6 +5,7 @@ Para assinar o [**Manifesto para identificação digital no Brasil**](https://ok
 
 ## Grupos / Organizações / Instituições
 
+* @GDTIC
 * @okfn-brasil
 * @Mutirao
 
